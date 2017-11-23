@@ -58,7 +58,3 @@ lcd.setCursor(0, 0); // 设置游标在第1列的第1行,都是从0开始计数
 lcd.print("Hello World!");
 ```
 更多的方法可以查看一下这个库，这里只是讲下基本的用法。
-
-## 交流学习
-email: temoa_yui@163.com<p>
-weibo: [Tem0a_](http://weibo.com/lailaizuiaiyiyi/profile?rightmod=1&wvr=6&mod=personinfo)<p>
